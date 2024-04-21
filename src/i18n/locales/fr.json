@@ -1,0 +1,11 @@
+{
+    "home": {
+      "title": "Accueil",
+      "description": "Description Accueil"
+    },
+    "about": {
+      "title": "À propos de nous",
+      "description": "Description À propos de nous"
+    }
+  }
+  
